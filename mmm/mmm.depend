@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1528853903 source:d:\progrmas hechos por mi\mmm\asd.cpp
+	"asd.h"
+
+1528854288 d:\progrmas hechos por mi\mmm\asd.h
+
+1528867396 source:d:\progrmas hechos por mi\mmm\main.cpp
+	<iostream>
+	<NTL/ZZ.h>
+	<math.h>
+	<ctime>
+	"asd.h"
+
